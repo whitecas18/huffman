@@ -20,4 +20,4 @@ Add a -t flag if you would like verbose output. (which also displays the huffman
  
 To decompress a file, do the same, with the .cmp file as input and the new text file name  
 as output.
->./unhuffman [t] data output  
+>./unhuffman [-t] data output  
